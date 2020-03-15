@@ -1,0 +1,44 @@
+baseURL = "hrgo-labs.netlify.com"
+languageCode = "en-us"
+title = "HR GO Labs"
+theme = "labs"
+
+[params]
+  # In most cases you will only want to use either one of these. If you have Google Analytics included in your GTM tags don't put your GA ID here. Otherwise your data might be useless.
+  google_analytics_id = ""
+  google_tag_manager_id = ""
+
+  [params.logo]
+    mobile = "images/hr-go.png"
+    standard  = "images/hr-go.png"
+    alt = "HR GO Labs"
+
+  [params.homepage_meta_tags]
+    meta_description = "HR GO Labs - The whizz kids at HR GO driving technical change across the business"
+    meta_og_title = "HR GO Labs"
+    meta_og_type = "website"
+    meta_og_url = "https://hrgo-labs.netlify.com"
+    meta_og_description = "HR GO Labs - The whizz kids at HR GO driving technical change across the business"
+
+[menu]
+  # Main Menu
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+      weight = 1
+
+  [[menu.main]]
+      name = "Team"
+      url = "/team/"
+      weight = 2
+
+  # Footer Menu
+  [[menu.footer]]
+    name = "Home"
+    url = "/"
+      weight = 1
+
+  [[menu.footer]]
+    name = "Contact"
+    url = "/contact/"
+      weight = 2

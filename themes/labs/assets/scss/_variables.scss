@@ -1,0 +1,16 @@
+$primary: #0054a6;
+$secondary: #f60;
+$black: #2f2f41;
+$white: #ffffff;
+$steel: rgb(92, 90, 90);
+$ghost: #f4f5fb;
+
+// Links
+$link-color: $primary;
+$link-decoration: none;
+$link-hover-color: lighten($primary, 20%);
+$link-hover-decoration: underline;
+
+// Fonts
+$font-family-base: Lato, Helvetica, Arial, sans-serif, -apple-system;
+$font-family-heading: Lato, sans-serif, -apple-system;

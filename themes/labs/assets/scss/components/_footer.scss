@@ -1,0 +1,218 @@
+.footer {
+  background: $black;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  .footer-inner {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: flex-start;
+    @include media-breakpoint-up(sm) {
+      justify-content: space-between;
+      flex-direction: row;
+      align-items: center;
+    }
+  }
+  .footer-title {
+    color: #ffffff;
+    font-size: 1.3rem;
+    font-family: $font-family-heading;
+    font-weight: normal;
+    margin-bottom: 10px;
+    @include media-breakpoint-up(sm) {
+      margin: 0;
+    }
+  }
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    li {
+      color: lighten($black, 50%);
+      font-size: 1rem;
+      a {
+        color: lighten($black, 50%);
+        text-decoration: none;
+        padding: 12px 14px 12px 0;
+        display: block;
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+      &.copyright {
+        font-weight: bold;
+        color: lighten($black, 50%);
+        display: none;
+        @include media-breakpoint-up(md) {
+          display: inline-block;
+        }
+      }
+    }
+    @include media-breakpoint-up(sm) {
+      height: inherit;
+      display: flex;
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      align-items: center;
+      justify-content: flex-end;
+      li {
+        list-style: none;
+        margin-right: 10px;
+        &:last-of-type {
+          margin-right: 0;
+        }
+        a {
+          display: inline-block;
+          height: 40px;
+          padding: 10px 8px 10px 8px;
+        }
+      }
+    }
+  }
+}
+
+.sub-footer {
+    color: $white;
+    padding-top: 3rem !important;
+    padding-bottom: 2rem !important;
+    text-align: center;
+    font-size: 13px;
+
+    @include media-breakpoint-up(md) {
+        text-align: left;
+    }
+
+    a {
+      text-decoration: none;
+    }
+
+    &_nav {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        padding: $spacer 0;
+
+        &-white {
+            color: $white;
+        }
+    }
+
+    &_navItem {
+        flex: 1 0 auto;
+        text-align: center;
+    }
+    // Specific overriding style, as when image list is used for icons in the footer
+    // IE11 doesn't resize them so this is a fallback and is specific to the footer
+    .flexLinks_image {
+        max-height: 40px;
+    }
+
+    a {
+        color: $white;
+
+        &:hover {
+            color: $link-hover-color;
+        }
+    }
+
+    &-centered {
+        padding: 48px 24px;
+
+        @include media-breakpoint-down(md) {
+            padding: 32px 16px;
+        }
+
+        @include media-breakpoint-down(sm) {
+            padding: 16px;
+        }
+
+        &_logo {
+            padding: 0;
+            max-height: 100px;
+            height: auto;
+
+            @include media-breakpoint-down(md) {
+                width: 15%;
+            }
+
+            @include media-breakpoint-down(sm) {
+                width: 25%;
+            }
+
+            &-link {
+                text-align: center;
+            }
+        }
+
+        &_linkList {
+
+            &-nav {
+                margin: 0;
+                padding: 0;
+                list-style: none;
+                text-decoration: none;
+                display: flex;
+                flex-flow: row;
+                justify-content: space-evenly;
+                width: 100%;
+
+                @include media-breakpoint-down(sm) {
+                    flex-flow: column;
+                }
+
+                > div {
+                    margin: 8px;
+                    font-weight: 600;
+                }
+
+                &_links {
+                    display: flex;
+                    flex-flow: column;
+                }
+
+                li {
+                    color: #000;
+                }
+            }
+
+            &-policies {
+                list-style: none;
+                padding: 0;
+                margin: 32px 0 16px;
+                display: flex;
+
+                li {
+                    display: flex;
+                    font-size: .8em;
+                    color: #d3d3d3;
+
+                    @include media-breakpoint-down(sm) {
+                        flex-flow: .8em;
+                    }
+                }
+            }
+            // eslint disable-next-line no-trailing-whitespace
+        }
+
+        &_row {
+            display: flex;
+            justify-content: center;
+            padding: 8px;
+
+            > div {
+                margin: 8px;
+                padding: 8px;
+            }
+        }
+    }
+    .flexLinks {
+      display: flex;
+      align-items: center;
+    }
+
+    .flexLinks-center {
+      justify-content: center;
+    }
+}
+
