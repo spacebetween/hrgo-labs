@@ -1,4 +1,4 @@
-baseURL = "hrgo-labs.netlify.com"
+baseURL = "https://hrgo-labs.netlify.com/"
 languageCode = "en-us"
 title = "HR GO Labs"
 theme = "labs"
