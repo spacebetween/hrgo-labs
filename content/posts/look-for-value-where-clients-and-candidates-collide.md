@@ -6,7 +6,7 @@ draft: false
 
 We're lucky. We have two customers: Clients (those with a vacancy) and Candidates (job seekers).
 
-Yet, the bias is usually towards making sure the stakeholder with the money is happy. Given new features for Clients yield new sales, that is were you might look first.
+Yet, the bias is usually towards making sure the stakeholder with the money is happy. Given new features for Clients yield new sales, that is where you might look first.
 
 However, now we have interfaces for both customers sorted, the best place to look for value is where single features can be used by both customers:
 
@@ -27,7 +27,7 @@ Where Client and Candidate diaries fit together:
 
 > As a Candidate I can book myself into available interview slots with a Client or Recruiter so that I can attend an interview at a mutually convenient time.
 
-> As a Client or Recruiter I can set times that I am available to interview Candidates and publish them with joining details to my shorlist so that they can book themselves in for an interview.
+> As a Client or Recruiter, I can set times that I am available to interview Candidates and publish them with joining details to my shortlist so that they can book themselves in for an interview.
 
 ### Planner
 Where Candidates set their availability and Clients add their vacancies
@@ -46,9 +46,9 @@ Where Candidates submit their timesheets for Client approval
 
 # Conclusion
 
-Where demands from all stakeholders is for a better, modern, digital experience, we must look for opportunities to deliver the maximum amount of value as rapdily as possible. Areas where features deliver value to multiple stakeholders are where our efforts will be focussed in the short term, as it helps us achieve this.
+Where demands from all stakeholders is for a better, modern, digital experience, we must look for opportunities to deliver the maximum amount of value as rapidly as possible. Areas where features deliver value to multiple stakeholders are where our efforts will be focussed in the short term, as it helps us achieve this.
 
-Do you have any ideas where we could deliver value to mutliple stakeholders with single features?
+Do you have any ideas where we could deliver value to multiple stakeholders with single features?
 
 What parts of the recruitment process suck for both Clients and Candidates today?
 
