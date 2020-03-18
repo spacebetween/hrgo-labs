@@ -60,6 +60,10 @@ Typically, you would have conversations like this in the office but with the lac
 
 We'll have to find a certificate for Laura for 'best Coronavirus idea'. She'll be happy.
 
+Update:
+
+![alt text](/images/certificate.png "Laura Certificate")
+
 # Finally
 
 Stay safe out there.
