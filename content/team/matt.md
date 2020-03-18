@@ -7,4 +7,4 @@ jobtitle: "Developer"
 weight: 5
 ---
 
-Matt is a JavaScript and React developer, who constantly strives to learn and evolve better himself at his craft in an ever changing tech landscape.
+Matt is a JavaScript and React developer, who constantly strives to learn, evolve, and better himself at his craft in an ever changing tech landscape.
