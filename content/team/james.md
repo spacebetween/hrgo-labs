@@ -7,4 +7,4 @@ jobtitle: "Developer"
 weight: 4
 ---
 
-James (if that is his real name) is a expert C# and javascript developer. No task is ever more than 5 minutes from completion. Loses geek points due to his love of a GUI.
+James - Captivated by a world of emerging technology there is no problem too big to solve as an object oriented programmer dwells within the functional programming realm alongside a team of extraordinary excellence.
