@@ -63,4 +63,10 @@
       border-top: 1px solid $ghost;
     }
   }
+  blockquote {
+    padding-left: 1rem;
+    border-left: 4px solid $ghost;
+    color: $steel;
+  }
+
 }
