@@ -1,7 +1,7 @@
 ---
 title: "My Introduction to SVG's and FIVE Reasons Why I’ll Be Using Them in the Future"
 date: 2017-11-30T13:20:20.684Z
-draft: false
+draft: true
 ---
 
 I recently had the pleasure of building [TEDx Folkestone](http://www.tedxfolkestone.com/), designed by [Flourish Studios](http://weareflourish.com/). I really loved the design - it’s modern and I love the big fonts and quirky graphics that give the whole website some personality. Being such a fan of the design I really wanted to do it justice when I was building the site, especially with the translucent graphics that show throughout.
