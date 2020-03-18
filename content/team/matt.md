@@ -7,4 +7,4 @@ jobtitle: "Developer"
 weight: 5
 ---
 
-Matt (aka Gullveig) is a pro javascript and React developer. If you've never heard of an editor called "emacs" before he will be happy to fill you in (even after you've asked him to stop).
+Matt is a JavaScript and React developer, who constantly strives to learn and evolve better himself at his craft in an ever changing tech landscape.
