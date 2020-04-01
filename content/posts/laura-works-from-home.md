@@ -1,4 +1,8 @@
-#Laura at home!
+---
+title: "Laura at home!"
+date: 2020-04-01T13:00:00.003Z
+draft: false
+---
 
 When John told me to inform the Labs team to pack up tools and start working from home, it was with a heavy heart I shut down my laptop and packed up everything bar the kitchen sink.  
 
