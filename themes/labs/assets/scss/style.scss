@@ -45,6 +45,14 @@ body {
   }
 }
 
+.hljs {
+  padding: 1em !important;
+  font-family: monaco, Consolas, "Lucida Console", monospace;
+  font-size: 0.85rem;
+  line-height: 1.4rem;
+  margin-bottom: 1rem;
+}
+
 // Display breakpoints for DEV
 {{ if .Site.IsServer }}
 body:after {
