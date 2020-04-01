@@ -1,7 +1,7 @@
 ---
 title: "Tackling Universal Javascript"
 date: 2017-11-30T13:06:50.293Z
-draft: false
+draft: true
 ---
 
 Simply put, ‘Universal Javascript’ is javascript that is capable of running on both the browser and the server, but also on native devices, embedded systems and more.
