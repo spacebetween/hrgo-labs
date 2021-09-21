@@ -4541,6 +4541,11 @@ ol {
   .content table tbody + tbody {
     border-top: 1px solid #f4f5fb; }
 
+.content blockquote {
+  padding-left: 1rem;
+  border-left: 4px solid #f4f5fb;
+  color: #5c5a5a; }
+
 .post-preview a {
   text-decoration: none; }
 
@@ -4741,6 +4746,13 @@ body {
     body {
       font-size: 17px;
       line-height: 1.2; } }
+.hljs {
+  padding: 1em !important;
+  font-family: monaco, Consolas, "Lucida Console", monospace;
+  font-size: 0.85rem;
+  line-height: 1.4rem;
+  margin-bottom: 1rem; }
+
 body:after {
   color: #000000;
   font-size: 12px;
