@@ -5,7 +5,7 @@ menu: 'main'
 
 When Space Between merged with Eclipse late last year, it made more sense for those of Space Between who worked solely on looking after the HR GO sites and applications to join HR GO rather than Eclipse.  In this exciting move, the HR GO Labs team was created!
 
-The Labs team, headed up by John includes 3 developers; Michael, Matt and James and Laura as Project Manager.
+The Labs team, headed up by John includes 5 developers; Michael, Matt, James, Dan, Joanna and Laura as Project Manager.
 
 The Labs team are responsible for creating and maintaining the various websites that come under the HR GO brand and applications such as Branch App, Members Area and Client Portal.  
 
