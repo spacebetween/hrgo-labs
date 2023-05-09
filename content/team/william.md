@@ -1,5 +1,5 @@
 ---
-title: "William"
+title: "William Martin"
 date: 2021-09-21T10:47:58+10:00
 draft: false
 image: "images/team/william.jpg"
