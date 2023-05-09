@@ -4,7 +4,7 @@ date: 2021-09-21T10:47:58+10:00
 draft: false
 image: "images/team/joanna.jpg"
 jobtitle: "Developer"
-weight: 5
+weight: 6
 ---
 
-Joanna is a talented programmer who recently joined the team, we cannot help but admire that she learned to program herself and no, this description is not written by her.
+Joanna, our frontend extraordinaire and resident border collie enthusiast. When she's not crafting pixel-perfect designs, you'll find her playing with her furry best friends. Her love for border collies knows no bounds, and her expertise in frontend development is equally impressive.
